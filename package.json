@@ -1,0 +1,25 @@
+{
+  "name": "exemod4",
+  "version": "1.0.0",
+  "description": "Exercicios typescript modulo 4",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "npx tsc",
+    "build-and-run": "npm run build && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LHcouto/ExeMod4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LHcouto/ExeMod4/issues"
+  },
+  "homepage": "https://github.com/LHcouto/ExeMod4#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
